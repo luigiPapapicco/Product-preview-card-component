@@ -1,0 +1,15 @@
+{
+  "name": "product-preview-card-component",
+  "version": "1.0.0",
+  "description": "![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./css/style.css"
+  },
+  "keywords": [],
+  "author": "Luigi Papapicco",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.77.5"
+  }
+}
